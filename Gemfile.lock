@@ -1,0 +1,15 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    kindle_highlights (0.1.0)
+    thor (0.19.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kindle_highlights
+  thor
+
+BUNDLED WITH
+   1.10.6
