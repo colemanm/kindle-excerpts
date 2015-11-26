@@ -27,5 +27,5 @@ export.rb
 Use the `excerpts.rb` script to pass in a book ID using the ASIN number, and export the resulting clips to a file in JSON (with full highlight metadata), Markdown, or both.
 
 ```shell
-./excerpts.rb -a B005H0O8KQ -f books/annals-of-the-former-world/annals-of-the-former-world -m -j
+./excerpts.rb -a B005H0O8KQ -f books/john-mcphee/annals-of-the-former-world -m -j
 ```
