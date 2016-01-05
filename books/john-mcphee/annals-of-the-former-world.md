@@ -16,8 +16,6 @@ In 1869, a golden spike was carried into the Promontories and driven into a tie 
 
 Limestone is calcium carbonate. Dolomite is calcium carbonate with magnesium added. Together they are known as the carbonate rocks.
 
-stratigraphy:
-
 He was saying that as a general rule material will flow rather than fracture if it is hotter than half of its melting point measured from absolute zero.
 
 Hutton and Black were among the founders of an institution called the Oyster Club, where they whiled away an evening a week with their preferred companions&mdash;Adam Smith, David Hume, John Playfair, John Clerk, Robert Adam, Adam Ferguson, and, when they were in town, visitors from near and far such as James Watt and Benjamin Franklin. Franklin called these people &ldquo;a set of as truly great men &hellip; as have ever appeared in any Age or Country.&rdquo; The period has since been described as the Scottish Enlightenment,
@@ -248,3 +246,212 @@ Rivers, almost by definition, are young. The oldest river in the United States i
 
 The Colorado River, which has only recently appeared on earth, has excavated the Grand Canyon in very little time. From its beginning, human beings could have watched the Grand Canyon being made.
 
+What sort of limestone would form on a surface that came sloping down like a tent roof from the ridgelines of buried mountains? The surface had been laced with streams, Love said, and in the rumpled topography east of the buried ranges the streams filled countless lakes. Old carbonates dissolved and were carried by the streams to the lakes. Lime also leached out of the granite in the mountain cores. Freshwater limestones formed in the lakes, self-certified by the fossils of freshwater snails.
+
+Limestone, being soluble in water, forms fertile valleys in eastern North America but in the dry West remains largely undissolved. Its inherent ruggedness holds it high, while weaker rock around it falls away. Limestone is the protective caprock of Pine Bluffs.
+
+All of that occurred in Precambrian time&mdash;during the first eighty-eight per cent of the history of the world. Often, Precambrian rock is collectively mentioned as &ldquo;the basement&rdquo;&mdash;the basement of continents&mdash;as if that is all there is to say about it before setting up on top of it the wonders of the world. This scientific metaphor is at best ambiguous&mdash;connoting, as it does, in one sense a firm foundation, in another an obscure cellar. In either case, it dismisses four billion years. It attempts to compress the uncompressible. It foreshortens a regional history wherein numerous ancestral mountain ranges developed and were annihilated&mdash;where a minor string of Pennsylvanian ridges could scarcely be said to represent the incunabular genealogy of the Rockies.
+
+They moved in highly miscellaneous and ultimately perplexing directions. The Wind River Range crept south-west, about five inches every ten years for a million years. The Bighorns split. One part went south, the other east. Similarly, the Beartooths went east and southwest. The Medicine Bows moved east. The Washakies west. The Uintas north. All distances were short, because the mountains were essentially rooted. The Sierra Madre did not move at all. The spines of the ranges trended in as many directions as a weathervane. The Laramie Range trended north-south. The Wind Rivers and Bighorns northwest-southeast. The spectacularly anomalous Uintas, lining themselves up at right angles to the axis of the Western cordillera, ran east-west, and so did the Owl Creeks. All these mountain ranges were coming up out of the craton&mdash;heartland of the continent, the Stable Interior Craton.
+
+The event is known in geology as the Laramide Orogeny. Alternatively it is called the Laramide Revolution. Mountains always come down, of course, as they are coming up. In the contest between erosion and orogeny, erosion never loses.
+
+Volcanic sands, from Yellowstone and from elsewhere to the west, were spread by the wind, and in places formed giant dunes. Two thousand feet of sand accumulated in central Wyoming. Nineteen thousand&mdash;the thickest Miocene deposit in America&mdash;went into the sinking Jackson Hole.
+
+While rivers elsewhere, running in their dendritic patterns like the veins in a leaf, shape in harmony the landscapes they dominate, almost all the rivers of the Rockies seem to argue with nature as well as with common sense.
+
+Yet this one piece of the Great Plains&mdash;extremely narrow but still intact&mdash;extends like a finger and, as ever, touches the mountain core: the pink deroofed Precambrian granite, the top of the range. At this place, as nowhere else, you can step off the Great Plains directly onto a Rocky Mountain summit. It is known to geologists as the gangplank.
+
+Now, on the gangplank, Love said parenthetically, &ldquo;You are seeing Paleozoic rocks for the first time since the Mississippi River. They go all the way through&mdash;under Iowa and Nebraska&mdash;but they&rsquo;re buried.&rdquo;
+
+This Miocene Ogallala formation was the youngest of the high-plains deposits that lapped onto the mountain front. It&rsquo;s subtle and seems academic until you try to build a railroad. This is the only place in the whole Rocky Mountain front where you can go from the Great Plains to the summit of the mountains without snaking your way up a mountain face or going through a tunnel.
+
+&ldquo;Most people today don&rsquo;t realize the power of wind and sand,&rdquo; Love said. &ldquo;Roads are paved. But in the first fifty years of the Lincoln Highway you didn&rsquo;t like to travel west in the afternoon. You&rsquo;d lose the finish on your car. Your windshield became so pitted you could hardly see out.&rdquo;
+
+The most inclement stretch of 80 is east of Rawlins where it skirts the tip of the Medicine Bows, where anemometers set on guardrails beside the highway frequently catch the wind exceeding the speed limit.
+
+They reported in that one storm enough dust to account for twenty-five per cent of the annual rate of sedimentation&mdash;from all rivers as well as the air&mdash;in the proximate North Atlantic. Moreover, about eighty-five per cent of it was a clay mineral called illite. Silts coming out of east-coast rivers include very little illite, and yet illite is predominant among the sediments of the ocean floor. By Skidaway&rsquo;s calculations, that one storm&rsquo;s deposits in the ocean amounted to a million tons.
+
+When the bauxites of the Caribbean run out, anorthosite will be a source of aluminum. &ldquo;Anorthosite is tough, has a high melting point, and doesn&rsquo;t fracture easily,&rdquo; he continued. &ldquo;Hence it might be useful for containing atomic waste.&rdquo; Anorthosite is rare on earth. It began forming during the Archean Eon and predominantly dates from an age of the later Precambrian known as Helikian time. Yet the high Adirondacks are largely anorthosite. The choice they present is to seal up our spent nuclear fuel inside them or dismantle them one at a time to make beer cans. Anorthosite is more plentiful elsewhere. It is most of what you are looking at when you are looking at the moon.
+
+The wind at the Big Hollow, after finding its way into some weak Cretaceous shales, had in short order dug out four million acrefeet and blown it all away. Wind not only makes such basins but maintains them&mdash;usually within frameworks of resistant rock. On the Laramie Plains, the resistant rock is heavy quartzite gravel&mdash;Precambrian pieces of the Snowy Range which were brought to the plains as the beds of Pleistocene rivers.
+
+And now this wee bairn with the light-gold hair was, in effect, questioning Love Ranch policy by asking his father what he had against tents. &ldquo;Laddie, you don&rsquo;t always have one available,&rdquo; his father said patiently. &ldquo;You want to get used to living without it.&rdquo; Tents, he made clear, were for a class of people he referred to as &ldquo;pilgrims.&rdquo;
+
+To warm the boys in their beds on cold nights, their mother wrapped heated flatirons in copies of the New York Times. The family were subscribers. Sundays only. The Times, David Love recalls, was &ldquo;precious.&rdquo; They used it to insulate the house: pasted it against the walls beside the Des Moines Register, the Tacoma News Tribune&mdash;any paper from anywhere, without fine distinction. With the same indiscriminate voracity, any paper from anywhere was first read and reread by every literate eye in every cow camp and sheep camp within tens of miles, read to shreds and passed along, in tattered circulation on the range. There was, as Love expresses it, &ldquo;a starvation of print.&rdquo; Almost anybody&rsquo;s first question on encountering a neighbor was &ldquo;Have you got any newspapers?&rdquo;
+
+Geologists who came to the ranch were reconnaissance geologists of the first rank, who went into unknown country and mapped it with an accuracy that is remarkable to this day.
+
+STRIVE ON&mdash;THE CONTROL OF NATURE IS WON NOT GIVEN
+
+He resigned to return to Wyoming with the U.S. Geological Survey, at first to pursue an assignment critical to the Second World War. The year was 1942, and the United States was desperately short of vanadium, an alloy that enables steel to be effective as armor plate. Working out of Afton, in the Overthrust Belt, he looked for the metal in Permian rock.
+
+The Survey evaluates the nation&rsquo;s terrain for academic purposes as well, there being no good way to comprehend any one aspect of geology without studying the wider matrix in which it rests.
+
+The Teton Range is forty miles long and less than ten across&mdash;a surface area inverse in proportion not only to its extraordinary ubiquity but also to its grandeur. The Tetons&mdash;with Jackson Hole beneath them&mdash;are in a category with Mt. McKinley, Monument Valley, and the Grand Canyon of the Colorado River as what conservation organizations and the Washington bureaucracy like to call a scenic climax.
+
+One year, with David Love, I made a field trip that included the Beartooth Mountains, the Yellowstone Plateau, the Hebgen earthquake zone of the Madison River, the Island Park Caldera, and parts of the Snake River Plain. Near the end of the journey, we came over Teton Pass and looked down into Jackson Hole. In a tone of sudden refreshment, he said, &ldquo;Now, there is a place for a kid to cut his eyeteeth on dynamic geology.&rdquo;
+
+He climbed the Tetons, and rowed the lakes, like Thoreau sounding depths on Walden Pond. He likes to say that the first time he was ever seasick was above timberline.
+
+After more than half a century with the story assembling in his mind, he can roll it like a Roman scroll. From the Precambrian beginnings, he can watch the landscape change, see it move, grow, collapse, and shuffle itself in an intricate, imbricate manner, not in spatial chaos but by cause and effect through time.
+
+The water advances into this piece of the world that will one day form as Jackson Hole. It lies close to the latitude of Holocene Sri Lanka&mdash;or Malaya, or Panama&mdash;and is moving toward the equator.
+
+Streams disintegrate these materials and rearrange them in layers a few miles away. So far, these scenes&mdash;each one of which is preserved in the rock of Jackson Hole&mdash;have advanced to a point that is 99.8 per cent of the way through the history of the earth, yet nothing is in sight that even vaguely resembles the Tetons.
+
+Now off the Absarokas, off the Wind Rivers, off the central Yellowstone Plateau&mdash;and, to a lesser extent, down the canyons of the Tetons&mdash;comes a thousand cubic miles of ice. A coalesced glacier more than half a mile thick enters and plows the valley. The west side of this glacier scrapes along the Tetons above the level of the modern timberline. Melting away, the glacier leaves a barren ground of boulders.
+
+Big spruce go down with it&mdash;trees with diameters of five feet&mdash;and are enveloped by the water of Jenny Lake. The mountains jump upward at the same time, many feet in a few seconds near the end of the fourteenth century, emphasizing the fact that they are active in our time.
+
+A geologic map is a textbook on one sheet of paper. In its cryptic manner&mdash;its codes of color and sign&mdash;it reflects (or should reflect) all the important research that has been done on any geologic topic within its boundaries. From broad formational measurements down to patterns in the fabric of the rock, a map should serve as an epitome of what is known and not known about a region, up to date. Regional maps have traditionally been presented state by state, and the dates they are up to vary: Nevada 1978, New York 1970, New Jersey 1910.
+
+Most geologic maps are maps of time, not rocks. They will say something like &lsquo;undifferentiated Jurassic&rsquo; and omit saying what the rocks are. There is little of that on Dave&rsquo;s map. Mapping is below the salt now. Yet you can&rsquo;t look at satellite photos for everything.
+
+Geology, by definition, was something you did in the field. You sifted fine dirt for fossils the eye could barely see. You chiselled into lithified mud to remove the legs of dinosaurs. You established time-stratigraphic relationships as you moved from rock to rock. You developed a sense of structure from, among other things, your own mapping of strikes and dips. In the vernacular of geology, your nose was on the outcrop.
+
+Their kind is being diminished, which is a major intellectual crime. It has to do with the nature of science and what we&rsquo;re doing. Reality is not something you capture on a blackboard.&rdquo;
+
+They can go off the mark easily, because for field relationships they often rely on data collected years ago. They use samples from museums, or samples collected by somebody else&mdash;perhaps out of context. I&rsquo;m afraid I&rsquo;m rather harsh about it, but we see misinterpretations, because of lack of knowledge of field relationships. Many of the megathinkers are doing their interpretations on the basis of second- and third-hand information. The name of the game now is &lsquo;modelling.&rsquo; A lot of it I can&rsquo;t see for sour owl shit.
+
+Love said that F. V. Hayden, the first reconnaissance geologist in Wyoming Territory, also happened to be a medical doctor, and he went around dropping watercress in springs and streams to prevent scurvy from becoming the manifest destiny of emigrants.
+
+To know the details of sedimentary history, you have to know stratigraphy. I didn&rsquo;t know until recently that stratigraphy is dead. Many schools don&rsquo;t teach it anymore. To me, that&rsquo;s writing the story without knowing the alphabet.
+
+The Owl Creek Mountains and the Uinta Mountains trend east-west. Why? Why are their axes ninety degrees from what you would expect if the tectonic force came from the west? You can do a torsion experiment with a rubber sheet and get folds in various directions&mdash;you can get east-west uplifts in the rubber sheet&mdash;but I would not say that is conclusive.
+
+In this unroughened milieu, we passed a sign informing us that we were crossing the Continental Divide. So level is the land there that the divide is somewhat moot. Cartographers seem to have difficulty determining where it is. Its location will vary from map to map. Moreover, it frays, separates, and, like an eye in old rope, surrounds a couple of million acres that do not drain either to the Atlantic or the Pacific&mdash;adding ambiguity to the word &ldquo;divide.&rdquo;
+
+Two hundred miles downwind from Mt. St. Helens, in the state of Washington, the amount of ash that has accumulated as a result of Mt. St. Helens&rsquo; recent eruptions is three inches. The ash here at the Continental Divide was sixty feet thick.
+
+Most volcanoes and related phenomena&mdash;most manifestations of the sort represented by the surface history of Yellowstone&mdash;are lined up along boundaries of the twenty-odd plates that collectively compose the earth&rsquo;s outer shell.
+
+The geologic term for such a place is &ldquo;hot spot.&rdquo; The earth seems to have about sixty of them&mdash;most older, and many less productive, than Yellowstone. Despite its position under thick continental crust, the Yellowstone hot spot has driven to the surface an amount of magma that is about equal to the over-all production of Hawaii, which has written a clear signature on the Pacific floor.
+
+Heat rising from hot spots apparently lubricates the asthenosphere&mdash;the layer on which the plates slide. According to theory, the plates would stop moving if the hot spots were not there.
+
+The perforations made by hot spots may be analogous to the perforations in sheets of postage stamps. Plume tracks might weaken the plates through which they pass, so that tens of millions of years later the plates would break apart along those lines. Madeira, for example, first drew the line where Greenland broke away from Canada. The Kerguelen Hot Spot, in the Indian Ocean, may have helped India break away from Antarctica. The Crozet Hot Spot, also in the Indian Ocean, seems to have helped Madagascar get away from Africa. In the interior of the southern supercontinent of three hundred million years ago, a hot spot punched out the line that is now the north coast of Brazil. The same line is the Gold Coast and Ivory Coast of Africa. The hot spot now stands in the Atlantic as the island St. Helena.
+
+The Guiana Shield is also thought to lie above a blind hot spot, which has lifted the country and produced, among other things, the world&rsquo;s highest falls&mdash;a plume of water twenty times the height of Niagara.
+
+In the Campanian age of late Cretaceous time, when Great Meteor was in mid-Atlantic, Bermuda was under the Great Smoky Mountains.
+
+By the middle nineteen-seventies, nature had removed a mile of overburden, and had only sixty feet to go. At that point, something called the Marion 8200, an eight-million-pound landship also known as a walking dragline, took over the job.
+
+Once every couple of hours, the 8200 walked&mdash;raised itself up on its pontoonlike shoes and awkwardly lurched backward seven feet, so traumatically compressing the dirt it landed on that smoke squirted out the sides and the ground became instant slate. This machine&mdash;with its crowned splines, its precise driveline mating, its shop-lapped helical gears, its ball-swivel mounting of the boompoint sheaves, its anti-tightline devices and walking-shoe position indicators&mdash;had unsurprisingly attracted the attention of Russian engineers, who came in a large committee to see Jim Bridger, because they were about to build twenty-five similar generating stations in one relatively concentrated area of Siberia, which, they confided, closely resembled Sweetwater County, Wyoming.
+
+Lakes are so ephemeral that they are seldom developed in the geologic record. They are places where rivers bulge, as a temporary consequence of topography. Lakes fill in, drain themselves, or just evaporate and disappear. They don&rsquo;t last. The Great Lakes are less than twenty thousand years old. The Great Salt Lake is less than twenty thousand years old. When Lake Gosiute took in the finishing touch of sediment that ended its life, it was eight million years old.
+
+Frustrated travellers, sometimes clapping their hands in unison, seemed to be calling on the National Park Service to repair the geyser. A scientist confronted with these facts could only shrug, make observations, and formulate a law: The volume of the complaints varies inversely with the number of miles per gallon attained by the vehicles that bring people to the park.
+
+On the Pitchstone Plateau were colonies of radioactive plants, and radioactive animals that had eaten the plants: gophers, mice, and squirrels with so much radium in them that their bodies could be placed on photographic paper and they would take their own pictures. A senator answered the question, saying, &ldquo;No one has brought that up.&rdquo;
+
+I remembered a time when we had gazed down into the Precambrian metasediments of a taconite mine off the southern tip of the Wind River Range. It was an open pit, square, more than a mile on a side. I asked him how he felt about a thing like that, and he said, &ldquo;They&rsquo;ve only ruined one side of the mountain. Behind the pit, the range top is covered with snow. I can live with this. This is a part of the lifeblood of our nation.&rdquo; I recalled also that when the Beartooth Highway was built, ascending the wall of a Swiss-like valley to subsummit meadows of unique beauty, Love defended the project, saying that people who could not get around so well would be enabled to see those scenes.
+
+In the regional context, a geologist cannot ignore the possibilities where that dart hit. A scientist, as a scientist, does not determine what should be the public policy in terms of exploration for oil and gas.&rdquo;
+
+For example, he went on horseback into the Yellowstone backcountry carrying a four-foot steel rod. Twenty miles from the trailhead, he found swamps that were something like tar pits. When he jammed the rod into a swamp, a cream-colored fluid welled up. He put it in a bottle. In a day&rsquo;s time, the mixture had separated, and much of it was clear amber oil.
+
+As any geologist would tell you, metal deposits were the result of hydrothermal activity. Geochemists imagined that water circulating deep in the crust picked up whatever it encountered&mdash;gold, silver, uranium, tin, all of which would go into solution with enough heat and pressure. They imagined the metal rising with the water and precipitating near the surface. By definition, a vein of ore was the filling of a fissure near a hot spring. This theory was so correct that it tended to seal off the conversation from intrusion by other ideas.
+
+One way to find deeply buried uraninite, therefore, would be to drill test holes in inclined aquifers. Wherever you found unusual concentrations of organic matter, you would move up the aquifer and drill again. If you found red oxidized sandstone, you would know that uraninite was somewhere between the two holes.
+
+I went to Mussel Rock that foggy afternoon in 1978 with the geologist Kenneth Deffeyes. I have returned a number of times since, alone or in the company of others. With regard to the lithosphere, it&rsquo;s a good place to sit and watch the plates move. It is a moment in geography that does your thinking for you. The San Andreas Fault, of course, is not a single strand. It is something like a wire rope, as much as half a mile wide, each strand the signature of one or many earthquakes.
+
+Ocean floors with an aggregate area many times the size of the present Pacific were made at spreading centers, moved around the curve of the earth, and melted in trenches before there ever was so much as a kilogram of California. Then, a piece at a time&mdash;according to present theory&mdash;parts began to assemble. An island arc here, a piece of a continent there&mdash;a Japan at a time, a New Zealand, a Madagascar&mdash;came crunching in upon the continent and have thus far adhered. Baja is about to detach. A great deal more may go with it.
+
+In 1906, the jump of the great earthquake&mdash;the throw, the offset, the maximum amount of local displacement as one plate moved with respect to the other&mdash;was something like twenty feet. The dynamics that have pieced together the whole of California have consisted of tens of thousands of earthquakes as great as that&mdash;tens of thousands of examples of what people like to singularize as &ldquo;the big one&rdquo;&mdash;and many millions of earthquakes of lesser magnitude.
+
+Bear in mind how young all this is. Until the latter part of the present geologic era, there was no Sierra Nevada&mdash;no mountain range, no rain shadow, no ten-thousand-foot wall. Big rivers ran west through the space now filled by the mountains. They crossed a plain to the ocean.
+
+Remember about mountains: what they are made of is not what made them. With the exception of volcanoes, when mountains rise, as a result of some tectonic force, they consist of what happened to be there. If bands of phyllites and folded metasediments happen to be there, up they go as part of the mountains. If serpentinized peridotites and gold-bearing gravels happen to be there, up they go as part of the mountains. If a great granite batholith happens to be there, up it goes as part of the mountains.
+
+The layers of the Grand Canyon are full of the temporal stratigraphic gaps known as unconformities. In the Grand Canyon, much more time is absent than is represented. If a gap of five hundred million years were the right five hundred million years, it could erase the Grand Canyon.
+
+&ldquo;Nature is messy,&rdquo; Moores remarked. &ldquo;Don&rsquo;t expect it to be uniform and consistent.&rdquo;
+
+To try to sense a structure, he repeated, one must develop a talent for &ldquo;seeing through the topography&rdquo; and into the rock on which the topography was carved. When rocks in their variety arrive in a given place, like furniture going into storage, they hold within themselves their individual histories: their dates of solidification, their environments of deposition, or their metamorphic experience, as the case may be. Their unit-to-unit relationship&mdash;their stratigraphy and other juxtapositions&mdash;pondered as a whole is structure. Structure on the move is tectonics.
+
+This is the Sierra batholith. Geologists reserve that term for the largest bodies of magmatic rock. A batholith, as defined in the science, has a surface of at least forty square miles and no known bottom.
+
+Geologists in their field boots mapping outcrops may not have been able to find a bottom, but geophysicists can, or think they can, and they say it is six miles down. If so, the batholith weighs a quadrillion tons, and its volume is at least a hundred and fifty thousand cubic miles.
+
+The granite of the batholith looked almost white beside the reddish country rock, which Moores described as the metamorphosed remains of what had once been an island arc. The granite was customary, competent&mdash;a lot of salt and less pepper. The arc rock was flaky, slaty&mdash;like aged iron in a state of ulcerated rust. In the first yards after the contact, tongues of granite reached into the country rock, preserved in the act of eating xenoliths. Within a short distance, they gave up.
+
+I remarked that geologists are like dermatologists: they study, for the most part, the outermost two per cent of the earth. They crawl around like fleas on the world&rsquo;s tough hide, exploring every wrinkle and crease, and try to figure out what makes the animal move.
+
+We continued west from Emigrant Gap through cuts in unsorted glacial till, buff and bouldery, and past the many blue doors of the pink garage of the Transportation Department&rsquo;s mountain center for snowplows and road maintenance, situated, with its cavalry of trucks, within a slowly moving earthflow, a creeping descent of unstable moraine, a sedate landslide. &ldquo;The engineers strike again,&rdquo; Moores said, but in scarcely three miles his contempt went into a subduction zone, melted, and came back up as appreciation for a long high competent roadcut that exposed bright beds of rhyolite tuff.
+
+It is a question whether the United States could have stood the shock of the great rebellion of 1861 had the California gold discovery not been made. Bankers and business men of New York in 1864 did not hesitate to admit that but for the gold of California, which monthly poured its five or six millions into that financial center, the bottom would have dropped out of everything.
+
+As the mine tailings travel in floods, they thicken streambeds and fill valleys with hundreds of feet of gravel. In their blanched whiteness, spread wide, these gravels will appear to be lithic glaciers for a length of time on the human scale that might as well be forever. In a year and a half, hydraulic mining washes enough material into the Yuba River to fill the Erie Canal.
+
+The oldest known continental rock was discovered east of Great Bear Lake, in the Canadian Northwest Territories, in 1989, and has a uraniumlead age of 3.96 billion years.
+
+Through an alteration of minerals, the rock takes on a silky lustre and a very smooth texture, becomes fibrous, and develops color&mdash;occasional streaks and spots of white, but mainly chrome green, myrtle green, Nile green, in patterned shapes within the mantle black. Because the patterns strongly suggest the skin of a snake, this rock has been known&mdash;for nearly six hundred years in the English language&mdash;as serpentine.
+
+At work or play, a geologist always drives like Egyptian painting&mdash;eyes to the side.
+
+Deeply circulating groundwater redissolves the metals and redeposits them in quartz veins in the faults. In this way, Moores said, it made sense to imagine that the Mother Lode gold of California came in from the deep ocean riding the Smartville Block.
+
+That idea came to me on the last morning of the Penrose conference in 1969, and I wrote it down: the idea that you could explain the progressive eugeosynclinemiogeosyncline development and the progressive orogenies that you see in western North America as a series of island-arc complexes&mdash;the things we call terranes&mdash;that have collided with the continent. I was so excited I could hardly sit still for several days&mdash;in fact, for a couple of weeks after that. I came back to Davis all bubbling over.&rdquo; Before long, he had sent a paper to Nature. It appeared in 1970 and was the first to suggest the collisional assembling of California and of vast related portions of the North American Plate.
+
+Since agglomerations and dispersals of terrane seemed to be cyclical in nature, there may have been who knows how many supercontinents before Rodinia.
+
+Politically, Cyprus was in Asia, Moores said, but geologically it belonged to no continent. It rested on the lip of Africa but was not African.
+
+In the way that the Smartville arc seems to have brought gold to California, Cyprus brought copper to the world. &ldquo;Cyprus&rdquo; means copper. Whether the island is named for the metal or the metal for the island is an etymology lost in time.
+
+Of this small excavation framed by Aleppo pines he spoke with resonance as well as reverence. Cypriots thirty-five centuries before Christ had walked into this pine grove, and others like it, and had found native metallic copper lying on the surface, he said. Pine resins in the groundwater had mixed with copper sulphate and reduced the copper to metal.
+
+The Iliad is populated with warriors armed in bronze. Bronze is copper hardened by adding some tin, and the copper would have come from Cyprus. (Copper was mined on Cyprus for nearly two thousand years before the lifetime of Homer.)
+
+The massive copper-bearing sulphide ores of Cyprus have a very characteristic sugary structure, he said, resulting in an incompetent rock that was always easy to mine. &ldquo;The ancients were excellent geologists. They knew the geology of the ore bodies of Cyprus. I am an exploration geologist with a Ph.D. I don&rsquo;t think we will find any ore body the ancients did not know about.&rdquo;
+
+He mentioned the Parthenon&rsquo;s historical stratigraphy&mdash;temple, church, mosque&mdash;and the erosional forces that had brought the building to its present condition: rain, acid rain, smog, gunpowder. In 1687, the Parthenon was in use as a Turkish powder magazine. Venetians bombarded it, and the powder exploded. The event was geomorphologically catastrophic. For two thousand years the Parthenon had stood there uneroded, until that night in 1687. &ldquo;There is no mortar in the Parthenon,&rdquo; Moores added pensively. &ldquo;It is all marble, and held together by gravity. And it&rsquo;s gone through earthquakes, too. The geology is not well worked out here. The general story is that the Acropolis is a klippe, resting on the red cherts and shales. It is not a deep block.&rdquo;
+
+is the Plain of Thessaly. In the eighth century B.C., Greek tribes settled here, chasing off the inhabitants. The fugitives went into the hills. They were fine horsemen. They raided the Greek settlements on horseback. The legend of the centaurs may have come from this. At night, you couldn&rsquo;t tell man from horse.
+
+He would forever remember Carl Vanlaningham, a friend of his father, remarking one day, with a glance around town, &ldquo;Optimism is highest at the beginning. A mining camp has nowhere to go but down.&rdquo;
+
+Moores&rsquo; developing opinion of developing Phoenix was a good deal lower than his opinion of Crown King. As he would explain in later years, &ldquo;there&rsquo;s something wrong with a place that looks to Miami for its cultural leadership.&rdquo;
+
+Geology characteristically repeats itself around the world and down through time, but&mdash;with the possible exceptions of the Chilean Longitudinal Valley and the Dalbandin Trough in Pakistan&mdash;the Great Central Valley of California has no counterpart on this planet.
+
+They have nothing to cut when they&rsquo;re in need of fill. If a new highway must cross over something, like a railroad track, the road builders go back half a mile or so and sink the highway into the earth in order to dig out enough dirt to build ramps to a bridge jumping the railroad.
+
+When Moores looks out upon landscapes, he sees beneath them other landscapes. Like most geologists, he carries in his head a portfolio of ancient scenes, worlds overprinting previous worlds.
+
+These are some of the few grapes in California that are grown in the soil of the state rock. Moores is predisposed toward the wine. To him, its bouquet is ophiolitic, its aftertaste slow to part with serpentine&rsquo;s lingering mystery. To me, it tastes less of the deep ocean than of low tide. The stuff is fermented peridotite&mdash;a Mohorivicic red with the lustre of chromium.
+
+Homestake&rsquo;s underground mine in the Black Hills of South Dakota is about a century old, and at latest count was eight thousand and fifty feet deep&mdash;the deepest mine in the Western Hemisphere. Homestake has produced more gold than any corporation in North America. With these new claims in the Coast Ranges, the company announced that it had more than doubled its reserves.
+
+&ldquo;The Taconic Orogeny is a collision of ophiolitic terrane with the North American continent, full stop,&rdquo; Moores says. &ldquo;It is an oceanic terrane&mdash;and not yet Europe&mdash;colliding with North America.&rdquo; In the assembling of New England, at least two more arcs followed. These Paleozoic additions to the eastern seaboard are remarkably analogous to the assembling of California an era later.
+
+&ldquo;People in Florida say that southern Florida is Northern and northern Florida is Southern.&rdquo; &ldquo;Civilization reflects geology.&rdquo;
+
+Long defined in geology as continental basements, continental shields, or continental cores, cratons are the ancient fundament to which younger and more legible rocks adhere.
+
+Where Burma meets India, the high ranges bend almost at a right angle and go off to the southeast. This is the Burma Syntaxis (the term refers to a bend in a mountain chain), and near it are the beginnings of a whole series of great rivers&mdash;the Brahmaputra, the Mekong, the Irrawaddy, the Salween&mdash;initially in parallel valleys, veining Southeast Asia from the Bay of Bengal to the South China Sea.
+
+On a relief map you can see India ramming Asia and squeezing all that country out to the southeast. As the mechanism has gained acceptance among tectonic theorists, it has become known as continental escape.
+
+(Or, in words dubiously attributed to Mark Twain: &ldquo;Researchers have already cast much darkness on the subject, and if they continue their investigations we shall soon know nothing at all about it.&rdquo;)
+
+His mentor Harry Hess, a combat veteran with the rank of rear admiral in the Naval Reserve, once told him, &ldquo;Geologists make better intelligence officers than physicists or chemists, because they are used to making decisions on faulty data.&rdquo;
+
+All these compressional aspects taken together&mdash;anticlines, synclines, and thrust faults in a wide swath from one end of California almost to the other&mdash;account for some of the missing motion in the San Andreas Discrepancy. The Los Angeles Basin alone has been squeezed about a centimetre a year for two million two hundred thousand years. The sites of Laguna Beach and Pasadena are fourteen miles closer together than they were 2.2 million years ago.
+
+&ldquo;In many respects we only have a two-dimensional snapshot view of the geologic process. Moreover, the interpretation of geologic data was probably influenced by the psychologic need to view the earth as a stable environment.
+
+In the 1989 Loma Prieta earthquake, sixty-two people died. In an earthquake of similar magnitude in Armenia in 1988, fifty-five thousand died. In Mexico City in 1985, ten thousand died. In the Iranian earthquake of 1990, fifty thousand died. The difference may lie partly in luck, in site, in relative intensity, but largely it lies in building codes, and the required or suggested strengthening of existing structures. Certain vulnerabilities notwithstanding, California seems to know what it is up against, and what to try to do about it.
+
+Richter was a professor at Caltech. His scale, devised in the nineteen-thirties, is understood by professors at Caltech and a percentage of the rest of the population too small to be expressible as a number.
+
+Now with the added oxygen the iron became ferric, insoluble, and dense. Precipitating out, it sank to the bottom as ferric sludge, where it joined the lime muds and silica muds and other seafloor sediments to form, worldwide, the banded-iron formations that were destined to become rivets, motorcars, and cannons. This was the iron of the Mesabi Range, the Australian iron of the Hammerslee Basin, the iron of Michigan, Wisconsin, Brazil. More than ninety per cent of the iron ever mined in the world has come from Precambrian banded-iron formations.
+
+Most zircons are not of a size to flash bright color from jewelry, or even to be easily seen. They are typically less than a tenth of a millimetre in their longest dimension. They are in sandstones, schists, gneisses. They are in nearly the whole family of solidified magmas of which granite is the most familiar.
+
+When rig operators hit the Precambrian, university geologists sometimes pay them to continue&mdash;a smiling face between industry and academia known as piggyback drilling. For a hundred and fifty dollars an hour, or so, the drillers keep going until the bit wears out. For five hundred to a thousand dollars, geologists go away with several tubs full of rock chips. Companies sometimes drill for an extra hour &ldquo;just to be nice.&rdquo;
+
+Like all writing, writing about geology is masochistic, mind-fracturing self-enslaved labor&mdash;a description that intensifies when the medium is rock.
