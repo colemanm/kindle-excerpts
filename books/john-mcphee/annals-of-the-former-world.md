@@ -60,6 +60,8 @@ If by some fiat I had to restrict all this writing to one sentence, this is the 
 
 Plate tectonics reveals that there is no stratigraphy in the m&eacute;lange, no consecutive story of deposition&mdash;just mountains of bulldozed hash.
 
+## In Suspect Terrain
+
 The ice has come and gone at least a dozen times, in cycles that seem to require about a hundred thousand years, and, judging by other periods of glaciation in the earlier history of the earth, the contemporary cycles have only begun.
 
 The Holocene appears to be nothing more than a relatively deglaciated interval. It will last until a glacier two miles thick plucks up Toronto and deposits it in Tennessee. If that seems unlikely, it is only because the most southerly reach of the Pleistocene ice fields to date stopped seventy-five miles shy of Tennessee.
