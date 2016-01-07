@@ -1,3 +1,5 @@
+## Basin and Range
+
 Geologists on the whole are inconsistent drivers. When a roadcut presents itself, they tend to lurch and weave. To them, the roadcut is a portal, a fragment of a regional story, a proscenium arch that leads their imaginations into the earth and through the surrounding terrane.
 
 Unfortunately, highway departments tend to obscure such scenes. They scatter seed wherever they think it will grow. They &ldquo;hair everything over&rdquo;&mdash;as geologists around the country will typically complain. &ldquo;We think rocks are beautiful. Highway departments think rocks are obscene.&rdquo; &ldquo;In the North it&rsquo;s vetch.&rdquo; &ldquo;In the South it&rsquo;s the god-damned kudzu. You need a howitzer to blast through it. It covers the mountainsides, too.&rdquo;
