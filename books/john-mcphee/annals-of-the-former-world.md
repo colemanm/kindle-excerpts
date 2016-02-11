@@ -224,7 +224,7 @@ Clear bands form near the base, along which the ice shears and slides upon itsel
 
 "I didn't know what bedrock meant. You could plot the limit of glaciation in New York City by the subway system. Where it's underground, it's behind the glaciation. Where it's in the moraine and the outwash plain, it's either elevated or in cuts in the ground."
 
-## Rising from the Plain
+## Rising from the Plains
 
 Wet, swollen bentonite soil is known as gumbo. We were crossing badlands of the Bighorn Basin one time when a light shower fell, and the surface of the road changed in moments from dust to colloidal suspension. The wheels began to skid as if they were climbing ice. Four-wheel drive was no help. Many a geologist has walked out forty miles from a vehicle shipwrecked in gumbo. Bentonite is mined in Wyoming and sold to the rest of the world. Blessed is the land that can sell its mud. Bentonite is used in adhesives, automobile polish, detergent, and paint. It is in the drilling "mud" of oil rigs, sent down the pipe and through apertures in the bit to carry rock chips to the surface. It sticks to the walls of the drill hole and keeps out unwanted water. It is used to line irrigation ditches and reservoirs, and in facial makeup. Indians drove buffalo into swamps full of bentonite. It is an ingredient of insecticides, insect repellents, and toothpaste. It is used to clarify beer.
 
