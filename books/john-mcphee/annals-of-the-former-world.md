@@ -354,6 +354,8 @@ As any geologist would tell you, metal deposits were the result of hydrothermal 
 
 One way to find deeply buried uraninite, therefore, would be to drill test holes in inclined aquifers. Wherever you found unusual concentrations of organic matter, you would move up the aquifer and drill again. If you found red oxidized sandstone, you would know that uraninite was somewhere between the two holes.
 
+## Assembling California
+
 I went to Mussel Rock that foggy afternoon in 1978 with the geologist Kenneth Deffeyes. I have returned a number of times since, alone or in the company of others. With regard to the lithosphere, it's a good place to sit and watch the plates move. It is a moment in geography that does your thinking for you. The San Andreas Fault, of course, is not a single strand. It is something like a wire rope, as much as half a mile wide, each strand the signature of one or many earthquakes.
 
 Ocean floors with an aggregate area many times the size of the present Pacific were made at spreading centers, moved around the curve of the earth, and melted in trenches before there ever was so much as a kilogram of California. Then, a piece at a time&mdash;according to present theory&mdash;parts began to assemble. An island arc here, a piece of a continent there&mdash;a Japan at a time, a New Zealand, a Madagascar&mdash;came crunching in upon the continent and have thus far adhered. Baja is about to detach. A great deal more may go with it.
